@@ -12,4 +12,4 @@ const PropsExample = (props) => {
 
    // Example of passing a prop from child component to parent component
 }
-export default PropsExamp
+export default PropsExamp;
